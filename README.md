@@ -14,3 +14,12 @@
 ***Language:*** Python 3.x
 ***Library:*** pyTelegramBotAPI (Telebot)
 ***Data Storage:*** JSON-based persistent storage for user profiles and transaction history 
+
+**##Setup and Deployment:**
+**1. Environment Configuration:**
+git clone https://github.com/yessenguzhinakuralai-cyber/Expense-Tracker-Budget-Planner.git
+cd Expense-Tracker-Budget-Planner
+**2. Dependency Installation:**
+pip install -r requirements.txt
+**3. Application Execution:**
+python main.py
